@@ -38,7 +38,7 @@ while True:
                 create_loan()
                 break
             except UnboundLocalError:
-                print("você precisa digitar um usuario cadastrado")
+                print("você precisa digitar um usuario cadastrado PATETA")
 
     elif instructionc == 'L':
         os.system('cls')
