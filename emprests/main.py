@@ -6,7 +6,7 @@ import mysql.connector
 import os
 
 
-print("Bem vindo ao AGIO")  # Agiotagem gourmet inteligente e organizada
+print("Bem vindo ao AGIO") 
 while True:
     Instruction = input('Agora escolha a ação que deseja executar:\n(c)'
                         'Criar um novo usuario\n(r)Registrar um novo'
