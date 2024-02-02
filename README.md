@@ -41,6 +41,3 @@ Este projeto foi criado como parte de um estudo mais amplo, focado em aprender o
 
 Este projeto foi desenvolvido exclusivamente para fins educacionais. A ênfase está na aprendizagem da lógica de programação relacionada a bancos de dados em Python.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para obter detalhes.
